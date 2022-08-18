@@ -38,3 +38,5 @@ def read_txt(txt):
 
 
 print(read_txt('S04_AMC72L.config')[0].split(',')[0])
+print(read_txt('S04_AMC72L.config')[0].split(',')[0])
+print(read_txt('S04_AMC72L.config')[0].split(',')[0])
